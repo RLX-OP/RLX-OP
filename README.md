@@ -19,7 +19,7 @@
 
 - 💬 You can talk with me on discord: **https://discord.com/users/753168925167976479**
 
-- 📫 How to reach me: **https://dsc.gg/rlx**
+- 📫 How to reach me: **https://discord.gg/S8fC3MFMy3**
 
 - 📄 Know about me: [https://rlx-op.github.io/website/](https://rlx-op.github.io/website/)
 
