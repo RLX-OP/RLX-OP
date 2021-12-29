@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rlx-op&label=Profile%20views&color=0e75b6&style=flat" alt="rlx-op" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlx-op" alt="rlx-op" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RLX-OP" alt="rlx-op" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/rlxop99" target="blank"><img src="https://img.shields.io/twitter/follow/rlxop99?logo=twitter&style=for-the-badge" alt="rlxop99" /></a> </p>
 
@@ -40,8 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rlxop"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rlxop" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlx-op&show_icons=true&locale=en&layout=compact" alt="rlx-op" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RLX-OP&show_icons=true&locale=en&layout=compact" alt="rlx-op" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rlx-op&show_icons=true&locale=en" alt="rlx-op" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RLX-OP&show_icons=true&locale=en" alt="rlx-op" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rlx-op&" alt="rlx-op" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RLX-OP&" alt="rlx-op" /></p>
