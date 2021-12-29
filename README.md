@@ -31,7 +31,7 @@
 <a href="https://instagram.com/ig_rlx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_rlx" height="30" width="40" /></a>
 <a href="https://hashnode.com/rlxop99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="rlxop99" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rlx-op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rlx-op" height="30" width="40" /></a>
-<a href="https://discord.gg/https://dsc.gg/rlx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/rlx" height="30" width="40" /></a>
+<a href="https://discord.gg/S8fC3MFMy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/rlx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
