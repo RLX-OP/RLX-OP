@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RLX</h1>
 <h3 align="center">I am a coder.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rlx-op&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="rlx-op" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RLX-OP&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="RLX-OP" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RLX-OP&theme=radical" alt="rlx-op" /></a> </p>
 
