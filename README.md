@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **https://discord.gg/S8fC3MFMy3**
 
-- 📄 Know about me: [https://rlx-op.github.io/website/](https://rlx-op.github.io/website/)
+- 📄 Know about me: [https://rlx-op.github.io](https://rlx-op.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
