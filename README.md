@@ -10,8 +10,8 @@
   </a> 
 <br>
 <br>
-<a href="https://discord.com/users/847030527822266378">
-        <img src="https://lanyard-profile-readme.vercel.app/api/847030527822266378?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+<a href="https://discord.com/users/753168925167976479">
+        <img src="https://lanyard-profile-readme.vercel.app/api/753168925167976479?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
@@ -20,7 +20,7 @@
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/847030527822266378">
+    <a href="https://discord.com/users/753168925167976479">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
