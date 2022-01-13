@@ -17,15 +17,15 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/RLX-OP/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+        <img src="./assets/images/github.svg/" width="25px" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/753168925167976479">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
+        <img src="./assets/images/discord.svg/" width="25px" />
     </a>
     &nbsp;
     <a href="https://www.youtube.com/c/RLXOP">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
+        <img src="./assets/images/youtube.svg/" width="25px" />
     </a>
     
 </p>
