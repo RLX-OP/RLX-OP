@@ -2,7 +2,7 @@
     Hello there! I am <strong>RLX</strong>. <img src="./assets/gif/Hand.gif" width="30px">
 </h2>
 <p align="center">
-    I am a Youtuber who aspires to be a software developer in the near future and Iam from India 🇮🇳, I mainly work as a developer on a platform called <strong> <a href="https://discord.com">Discord</a></strong>/<strong>Websites</strong> etc.
+    I am a Youtuber who aspires to be a software developer in the near future and I am from India 🇮🇳, I mainly work as a developer on a platform called <strong> <a href="https://discord.com">Discord</a></strong>/<strong>Websites</strong> etc.
 <br>
 <br>
 <a href="https://github.com/RLX-OP/">
