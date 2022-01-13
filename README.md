@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I am <strong>RLX</strong>. <img src="https://raw.githubusercontent.com/RLX-OP/RLX-OP/master/assets/images/wave.gif" width="30px">
+    Hello there! I am <strong>RLX</strong>. <img src="./assets/gif/wave.gif" width="30px">
 </h2>
 <p align="center">
     I am a Youtuber who aspires to be a software developer in the near future and Iam from India 🇮🇳, I mainly work as a developer on a platform called <strong> <a href="https://discord.com">Discord</a></strong>/<strong>Websites</strong> etc.
