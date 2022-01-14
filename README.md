@@ -28,10 +28,14 @@
         <img src="./assets/images/youtube.svg/" width="25px" />
     </a>
     &nbsp
-    <a href="https://www.buymeacoffee.com/rlxop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rlxop&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+    <a href="https://twitter.com/RLXOP99">
+        <img src="./assets/images/twitter.svg/" width="25px" />
     </a>
 </p>
 <hr/>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/rlxop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rlxop&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+    </p>
 <p align="center">
     <a href="https://github.com/RLX-OP/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=RLX-OP&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF" />
