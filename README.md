@@ -29,7 +29,6 @@
     </a>
     &nbsp
     <a href="https://www.buymeacoffee.com/rlxop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rlxop&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-    <img src="https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-RLX-ff1414.svg?style=flat-square" alt="By_RLX">
     </a>
 </p>
 <hr/>
