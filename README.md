@@ -33,7 +33,7 @@
     </a>
     &nbsp
     <a href="https://www.linkedin.com/in/rlx-op-199456226">
-        <img src="./assets/images/linkedin.svg/" width="25px" />
+        <img src="./assets/images/linkedin.svg/" width="27px" />
     </a>
 </p>
 <hr/>
