@@ -31,6 +31,10 @@
     <a href="https://twitter.com/RLXOP99">
         <img src="./assets/images/twitter.svg/" width="25px" />
     </a>
+    &nbsp
+    <a href="https://www.linkedin.com/in/rlx-op-199456226">
+        <img src="./assets/images/linkdin.svg/" width="25px" />
+    </a>
 </p>
 <hr/>
 <p align="center">
