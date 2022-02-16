@@ -40,9 +40,8 @@
 <p align="center">
     <a href="https://www.buymeacoffee.com/rlxop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rlxop&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
     </p>
-<p align="center">
-    <a href="https://www.patreon.com/bePatron?u=65732590" data-patreon-widget-type="become-patron-button"Become a Patron!</a><img src="https://c6.patreon.com/becomePatronButton.bundle.js">
-    </p>
+
+
 <p align="center">
     <a href="https://github.com/RLX-OP/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=RLX-OP&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF" />
