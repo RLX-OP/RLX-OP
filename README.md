@@ -41,7 +41,7 @@
     <a href="https://www.buymeacoffee.com/rlxop"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rlxop&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
     </p>
 <p align="center">
-    <a href="<a href="https://www.patreon.com/bePatron?u=65732590" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+    <a href="https://www.patreon.com/bePatron?u=65732590" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
     </p>
 <p align="center">
     <a href="https://github.com/RLX-OP/">
